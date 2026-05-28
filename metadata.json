@@ -1,0 +1,6 @@
+{
+  "name": "Conversor Intelipost para VTEX",
+  "description": "Conversor em tempo real de planilhas de frete da Intelipost (v2.5) para o modelo de frete aceito pela VTEX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
